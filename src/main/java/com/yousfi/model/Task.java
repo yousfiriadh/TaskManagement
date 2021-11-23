@@ -26,7 +26,7 @@ public class Task {
 		private Long id;
 		//title
 		private String title;
-		
+		//type
 		private String type;
 		
 		private Date dueDate;
